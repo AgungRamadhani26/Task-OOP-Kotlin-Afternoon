@@ -1,0 +1,7 @@
+C:\Users\agung\Documents\Infinite_Learning\TugasMacro\Task-OOP-Kotlin-Afternoon\src\main\kotlin\KotlinSubmission-Afternoon\exercise5\Hero.kt
+C:\Users\agung\Documents\Infinite_Learning\TugasMacro\Task-OOP-Kotlin-Afternoon\src\main\kotlin\Main.kt
+C:\Users\agung\Documents\Infinite_Learning\TugasMacro\Task-OOP-Kotlin-Afternoon\src\main\kotlin\KotlinSubmission-Afternoon\exercise3\App.kt
+C:\Users\agung\Documents\Infinite_Learning\TugasMacro\Task-OOP-Kotlin-Afternoon\src\main\kotlin\KotlinSubmission-Afternoon\exercise2\App.kt
+C:\Users\agung\Documents\Infinite_Learning\TugasMacro\Task-OOP-Kotlin-Afternoon\src\main\kotlin\KotlinSubmission-Afternoon\exercise4\App.kt
+C:\Users\agung\Documents\Infinite_Learning\TugasMacro\Task-OOP-Kotlin-Afternoon\src\main\kotlin\KotlinSubmission-Afternoon\exercise5\App.kt
+C:\Users\agung\Documents\Infinite_Learning\TugasMacro\Task-OOP-Kotlin-Afternoon\src\main\kotlin\KotlinSubmission-Afternoon\exercise1\App.kt
